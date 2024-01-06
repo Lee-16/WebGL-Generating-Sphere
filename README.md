@@ -1,5 +1,5 @@
 # WebGL-Generating-Sphere
-This Project allows you to render a Generating sphere using Webgl.
+## This Project allows you to render a Generating sphere using Webgl.
 
 ## index.html
 This code is imported with sphere.js, where the rendering occurs. Additionally, it relies on gl-matrix.js, which manages the sphere matrix.
