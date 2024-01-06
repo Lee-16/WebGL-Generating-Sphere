@@ -8,4 +8,4 @@ This code is imported with sphere.js, where the rendering occurs. Additionally, 
 The WebGL rendering of the sphere provides accurate color representation, texture mapping, and smooth movement, seamlessly combining these visual elements for an immersive user experience. 
 
 ## gl-matrix.js 
-U can find this code [here](https://unpkg.com/gl-matrix@2.4.0/dist/gl-matrix.js).
+You can find this code [here](https://unpkg.com/gl-matrix@2.4.0/dist/gl-matrix.js).
