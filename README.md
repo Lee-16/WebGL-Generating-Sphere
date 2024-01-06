@@ -10,5 +10,5 @@ The WebGL rendering of the sphere provides accurate color representation, textur
 ### gl-matrix.js 
 You can find this code [here](https://unpkg.com/gl-matrix@2.4.0/dist/gl-matrix.js).
 
-##Output
+## Output
 You can find the output webpage [here](https://lees-generating-sphere.surge.sh/)
